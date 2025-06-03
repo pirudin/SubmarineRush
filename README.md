@@ -11,8 +11,8 @@
 
 Игра может быть запущена как на компьютере(или ноутбуке), так и на мобильных устройствах.
 
-Установочный APK-файл расположен в директории Release по адресу: 
+Установочный APK-файл расположен в директории Release по адресу: https://github.com/pirudin/SubmarineRush/tree/master/Release 
 
-Презентация проекта и видео-тизер игры доступны в директории media по адресу:
+Презентация проекта и видео-тизер игры доступны в директории media по адресу: https://github.com/pirudin/SubmarineRush/tree/master/media
 
 С уважением, Рудин Павел Игоревич. Email: rudinp@yandex.ru Telegram: +79009305225 VK: vk.com/rudinp
